@@ -1,0 +1,11 @@
+name: Welcomer
+main: xyz.joasss.welcomer.Main
+version: 1.0.0
+author: Joa_sss
+commands:
+   welcomer:
+      description: Displays information about Welcomer.
+      usage: /welcomer
+   welcomerreload:
+      description: Reloads Welcomer.
+      usage: /welcomerreload

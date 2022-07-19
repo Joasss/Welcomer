@@ -1,0 +1,30 @@
+# Configuration file for Welcomer V1.0.0 by Joa_sss
+
+# If the join message should be sent by Welcomer or not (if you have other plugins for it)
+SendMessage: true
+
+# Set the welcome message. You can use color codes and variables. Valid variables:
+# {player} - Username
+# {online} - Playercount
+# {world} - The world's name
+WelcomeMessage: '&aWelcome {player}!'
+
+# If first join messages should be enabled
+FirstJoin: true
+
+# Set the first join message. You can use color codes and variables. Valid variables:
+# {player} - Username
+# {online} - Playercount
+# {world} - The world's name
+FirstJoinMessage: '&a{player} joined for the first time, welcome!'
+
+
+# If user messages on join should be enabled
+UserEnabled: true
+
+# Set the message to be sent to the user. You can use color codes and variables. Valid variables:
+# {player} - Username
+# {online} - Playercount
+# {world} - The world's name
+UserMessage: '&7Welcome to the server &e{player}!'
+
